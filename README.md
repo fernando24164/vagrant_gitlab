@@ -8,4 +8,4 @@ To launch the project:
 vagrant up
 ```
 
-This will up a Gitlab server in the **192.168.33.10**, also it is installed gitlab-runner, Docker and Docker Compose.
+This will setup a Gitlab server in **192.168.33.10**, also it is installed gitlab-runner, Docker and Docker Compose.
